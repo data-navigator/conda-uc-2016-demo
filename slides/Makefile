@@ -1,7 +1,7 @@
-short = conda-uc
+short = conda-uc-2017
 deck = conda-arcgis
-event = uc-2016
-theme = esri-uc-2016
+event = uc-2017
+theme = esri-uc-2017
 upload_loc = 4326.us:esri/$(short)
 public_loc = https://4326.us/esri/$(short)
 slide_dir = $(shell pwd)
