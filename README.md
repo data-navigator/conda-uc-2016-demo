@@ -14,10 +14,15 @@ Description
 -----------
 
 Python has a rich ecosystem of packages you can use in your own code,
-but installation used to be complex. Conda will be included with ArcGIS Pro 
-1.3, and allows you to easily install libraries into your Python 
-environment, and distribute that code to others. Join us and learn to bend 
-Python to your will.
+but installation used to be complex. ArcGIS Pro 1.4 includes an enhanced 
+Python experience, allowing you to install conda packages through a User 
+Interface. This allows you to easily install libraries into your Python 
+environment, and distribute that code to others. ArcGIS Pro 2.0 will include
+environment support in the User Interface and package creation features will
+be included in 2.1 and beyond. We will explore conda, the User Interface and
+demonstrate the workflow of packaging a Python script tool on the command 
+line, then installing it and running it in ArcGIS Pro. Join us and learn to 
+bend Python to your will.
 
 Building
 --------
